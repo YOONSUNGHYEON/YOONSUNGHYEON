@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @YOONSUNGHYEON
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m SUNGHYEON YOON
+- 👀 I’m interested in watching movie and doing indoor climbing.
 
-<!---
-YOONSUNGHYEON/YOONSUNGHYEON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
